@@ -1,6 +1,8 @@
 # 1.3.0
 
-- converted into a mod named `DerailValleyDesktopGauge`
+- converted into a mod named `DerailValleyDesktopGauge`:
+
+Now it bundles OpenSimGauge + panels/gauges into a single Derail Valley mod so it all "just works".
 
 # 1.2.0
 
