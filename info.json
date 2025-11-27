@@ -1,0 +1,9 @@
+{
+	"Id": "DerailValleyDesktopGauge",
+	"Version": "1.2.0",
+	"DisplayName": "DerailValleyDesktopGauge",
+	"Author": "Jared Williams",
+	"EntryMethod": "DerailValleyDesktopGauge.Main.Load",
+	"ManagerVersion": "0.32.4",
+	"Repository": "https://raw.githubusercontent.com/imagitama/derail-valley-desktop-gauge/main/repository.json"
+}
