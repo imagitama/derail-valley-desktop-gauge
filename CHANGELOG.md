@@ -1,3 +1,7 @@
+# 1.3.1
+
+- fixed crash because of `transition` prop
+
 # 1.3.0
 
 - converted into a mod named `DerailValleyDesktopGauge`:
