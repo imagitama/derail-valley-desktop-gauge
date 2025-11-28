@@ -1,3 +1,5 @@
+# **This mod depends on https://github.com/imagitama/derail-valley-websocket**
+
 # Derail Valley Desktop Gauge mod
 
 A mod for the game Derail Valley that uses [OpenSimGauge](https://github.com/imagitama/open-sim-gauge) to render gauges on your desktop.
