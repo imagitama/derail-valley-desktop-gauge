@@ -1,8 +1,10 @@
-# **This mod depends on https://github.com/imagitama/derail-valley-websocket**
-
 # Derail Valley Desktop Gauge mod
 
-A mod for the game Derail Valley that uses [OpenSimGauge](https://github.com/imagitama/open-sim-gauge) to render gauges on your desktop.
+A mod for the game Derail Valley that uses [OpenSimGauge](https://github.com/imagitama/open-sim-gauge) to render gauges on your desktop:
+
+![](./screenshot.png)
+
+Note only the basic speedometer, throttle lever and brake lever gauges are working. More gauges requires work to create.
 
 Template from https://github.com/derail-valley-modding/template-umm
 
@@ -18,6 +20,8 @@ Either edit `OpenSimGauge/client.json` manually or use the [OpenSimGauge](https:
 ## Install
 
 Download the zip and use Unity Mod Manager to install it.
+
+**This mod depends on https://github.com/imagitama/derail-valley-websocket**
 
 ## Development
 

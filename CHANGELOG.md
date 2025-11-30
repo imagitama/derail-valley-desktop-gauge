@@ -1,3 +1,7 @@
+# 1.4.0
+
+- added strict dependency on mod `DerailValleyWebSocket`
+
 # 1.3.1
 
 - fixed crash because of `transition` prop
