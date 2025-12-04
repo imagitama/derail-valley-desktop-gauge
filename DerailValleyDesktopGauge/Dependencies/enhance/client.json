@@ -10,6 +10,11 @@
           "width": 600
         },
         {
+          "path": "gauges/LocoDE2/EngineRPM/gauge.json",
+          "position": ["75%", "25%"],
+          "width": 600
+        },
+        {
           "path": "gauges/Loco/ThrottleLever/gauge.json",
           "position": ["25%", "75%"],
           "width": 250
@@ -27,6 +32,7 @@
       ],
       "width": 1200,
       "height": 1200,
+      "screen": 0,
       "background": "rgb(0,0,0)"
     }
   ],
