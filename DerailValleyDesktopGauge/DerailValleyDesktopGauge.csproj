@@ -19,6 +19,8 @@
 	<!-- Unity -->
 	<ItemGroup>
 		<Reference Include="UnityEngine" />
+		<Reference Include="UnityEngine.CoreModule" />
+		<Reference Include="UnityEngine.IMGUIModule" />
 	</ItemGroup>
 
 	<!-- Mod Loader -->

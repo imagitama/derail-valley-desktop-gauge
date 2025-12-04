@@ -1,3 +1,13 @@
+# 1.5.0
+
+- will not start if already running
+- added settings buttons to edit configs
+- added settings buttons to control OpenSimGauge
+- added very basic Engine RPM gauge
+- added Reverser gauge
+
+Note: Will backup your config and gauges automatically on mod launch.
+
 # 1.4.0
 
 - added strict dependency on mod `DerailValleyWebSocket`

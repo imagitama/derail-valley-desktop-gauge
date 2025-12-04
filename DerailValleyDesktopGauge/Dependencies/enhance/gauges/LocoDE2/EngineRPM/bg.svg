@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" style="background:none">
+  <circle cx="300.0" cy="300.0" r="262.5" fill="transparent" stroke-width="25" stroke="rgb(25, 25, 25)"/>
+  <circle cx="300.0" cy="300.0" r="250" fill="rgb(255, 255, 255)"/>
+  <g stroke="rgb(50, 50, 50)" fill="none">
+    <line x1="162.1141776686232" y1="437.88582233137674" x2="130.29437251522856" y2="469.7056274847714" stroke-width="3"/>
+    <line x1="131.1250462620345" y1="397.5" x2="92.15390309173475" y2="420.0" stroke-width="3"/>
+    <line x1="111.64446387363168" y1="350.46971379499155" x2="68.1778016906236" y2="362.116570824605" stroke-width="3"/>
+    <line x1="105.0" y1="300.0" x2="60.0" y2="299.99999999999994" stroke-width="3"/>
+    <line x1="111.64446387363171" y1="249.5302862050084" x2="68.17780169062362" y2="237.88342917539495" stroke-width="3"/>
+    <line x1="131.12504626203446" y1="202.5" x2="92.15390309173472" y2="180.0" stroke-width="3"/>
+    <line x1="162.11417766862326" y1="162.11417766862323" x2="130.29437251522862" y2="130.2943725152286" stroke-width="3"/>
+    <line x1="202.50000000000006" y1="131.12504626203446" x2="180.00000000000006" y2="92.15390309173472" stroke-width="3"/>
+    <line x1="249.53028620500845" y1="111.64446387363168" x2="237.883429175395" y2="68.1778016906236" stroke-width="3"/>
+    <line x1="300.0" y1="105.0" x2="300.0" y2="60.0" stroke-width="3"/>
+    <line x1="350.46971379499155" y1="111.64446387363168" x2="362.116570824605" y2="68.1778016906236" stroke-width="3"/>
+    <line x1="397.5" y1="131.1250462620345" x2="420.0" y2="92.15390309173475" stroke-width="3"/>
+    <line x1="437.88582233137674" y1="162.11417766862323" x2="469.7056274847714" y2="130.2943725152286" stroke-width="3"/>
+    <line x1="468.87495373796554" y1="202.5" x2="507.8460969082653" y2="180.0" stroke-width="3"/>
+    <line x1="488.3555361263683" y1="249.53028620500845" x2="531.8221983093764" y2="237.883429175395" stroke-width="3"/>
+    <line x1="495.0" y1="300.0" x2="540.0" y2="300.0" stroke-width="3"/>
+    <line x1="488.3555361263683" y1="350.46971379499155" x2="531.8221983093764" y2="362.116570824605" stroke-width="3"/>
+    <line x1="468.87495373796554" y1="397.5" x2="507.8460969082653" y2="420.0" stroke-width="3"/>
+    <line x1="437.88582233137674" y1="437.88582233137674" x2="469.7056274847714" y2="469.7056274847714" stroke-width="3"/>
+  </g>
+  <g font-family="Impact" fill="rgb(50, 50, 50)" text-anchor="middle" dominant-baseline="middle">
+    <text x="183.32738110421963" y="416.6726188957803" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em">0</text>
+    <text x="140.62223866230372" y="342.70514244191594" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em"></text>
+    <text x="140.62223866230374" y="257.294857558084" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em"></text>
+    <text x="183.32738110421968" y="183.32738110421965" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em"></text>
+    <text x="257.29485755808406" y="140.62223866230372" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em"></text>
+    <text x="342.70514244191594" y="140.62223866230372" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em"></text>
+    <text x="416.6726188957804" y="183.32738110421965" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em"></text>
+    <text x="459.37776133769626" y="257.29485755808406" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em"></text>
+    <text x="459.37776133769626" y="342.70514244191594" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em"></text>
+    <text x="416.6726188957804" y="416.6726188957804" font-size="36.0" text-anchor="middle" dominant-baseline="middle" dy="0.35em">1600</text>
+  </g>
+  <circle cx="300.0" cy="300.0" r="5" fill="rgb(255, 255, 255)"/>
+  <text x="50%" y="75%" fill="rgb(50, 50, 50)" font-family="Impact" font-size="36" text-anchor="middle" dominant-baseline="middle" dy="0.35em">RPM</text>
+</svg>
